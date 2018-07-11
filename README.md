@@ -1,22 +1,24 @@
 # Car_Accident_Detection_System
-### system that detects accident car and transfers accident pictures and location to the situation room
 ----------------------------------------------------------------------------------------------------------------------------------------
+### system that detects accident car and transfers accident pictures and location to the situation room
 
 
- ## About
+
+----------------------------------------------------------------------------------------------------------------------------------------
+ # About
  ---------------------------------------------------------------------------------------------------------------------------------------
  ### o Team name
  ##### : HANARO(하나로)
  ### o Team members
  ##### : 이찬희, 신지훈, 김태현
  ### o Subject
- ##### : Systems that detects accident car by camera and transfers accident images and location to the situation room
+ ##### : System that detects accident car by camera and transfers accident images and location to the situation room
  ### o Abstract
  ##### : In order to comply with the Golden Hour in traffic accidents, the traffic accidents are detected through video or image analysis and the scenes of the accident are transferred to the situation room.
 
 
-
- ## Suggestion Background
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ # Suggestion Background
  ---------------------------------------------------------------------------------------------------------------------------------------
 
 #### o According to the Ministry of Health and Welfare, the average arrival rate of the final treatment institution within the appropriate time of the servere emergency patients is less than half.
@@ -29,8 +31,8 @@
 ![Suggestion 2](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System/blob/master/suggestion2.jpg)
 ![Suggestion 3](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System/blob/master/suggestion3.jpg)
 
-
- ## Function
+---------------------------------------------------------------------------------------------------------------------------------------
+ # Function
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### o Raspberry Pi 1
@@ -52,7 +54,8 @@
       
 ![System Flow](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System/blob/master/system_flow.jpg)
 
-## Effects
+---------------------------------------------------------------------------------------------------------------------------------------
+# Effects
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### o Change of Paradigm
@@ -77,8 +80,8 @@
 #### - There is an advantage in improving the efficiency of incident handling.
  
 
-
-## Video Link
+---------------------------------------------------------------------------------------------------------------------------------------
+# Video Link
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### o Soldering(Button)
@@ -93,8 +96,8 @@
 ### o System Control
 
 
-
-## Conclusion
+---------------------------------------------------------------------------------------------------------------------------------------
+# Conclusion
 ---------------------------------------------------------------------------------------------------------------------------------------
  
  

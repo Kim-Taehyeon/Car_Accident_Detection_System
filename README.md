@@ -8,14 +8,20 @@
  # About
  ---------------------------------------------------------------------------------------------------------------------------------------
  ### o Team name
- ##### : HANARO(하나로)
+ 
+*: HANARO(하나로)*
+ 
  ### o Team members
- ##### : 이찬희, 신지훈, 김태현
+ 
+ *: 이찬희, 신지훈, 김태현*
+ 
  ### o Subject
- ##### : System that detects accident car by camera and transfers accident images and location to the situation room
+ 
+ *: Systems that detects accident car by camera and transfers accident images and location to the situation room*
+ 
  ### o Abstract
- ##### : In order to comply with the Golden Hour in traffic accidents, the traffic accidents are detected through video or image analysis and the scenes of the accident are transferred to the situation room.
-
+ 
+*: In order to comply with the Golden Hour in traffic accidents, the traffic accidents are detected through video or image analysis and the scenes of the accident are transferred to the situation room.*
 
  ---------------------------------------------------------------------------------------------------------------------------------------
  # Suggestion Background
@@ -36,21 +42,33 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### o Raspberry Pi 1
- ####  1 When we push the button, start the system.
- ####  2 Use the Pi Camera to display the captured image on the display.
- ####  3 Send photos and location variables to the Raspberry Pi 2 at regular intervals.
+*1. When we push the button, start the system.*
+
+*2. Use the Pi Camera to display the captured image on the display.*
+
+*3. Send photos and location variables to the Raspberry Pi 2 at regular intervals.*
 
 ### o Raspberry Pi 2
- ####  1 Receive photos and location variables sent from Raspberry Pi 1.
- ####  2 Send photos to Nanonets at regular intervals.
- ####  3 Receive the detected result values from Nanonets.
- ####  4 If result value is more than 70%, it is judged as an accident.
- #####  - the monitor displays the location of the accident on the map.
- #####  - if you click the marked point, display the accident pictures.
- #####  - LED
- ######   turn on the Red LED, click the '출동' button on the monitor.
- ######   turn on the Yellow LED, click the '도착' button on the monitor.
- ######   turn on the Green LED, click the '처리' button on the monitor.
+
+*1. Receive photos and location variables sent from Raspberry Pi 1.*
+
+*2. Send photos to Nanonets at regular intervals.*
+
+*3. Receive the detected result values from Nanonets.*
+
+*4. If result value is more than 70%, it is judged as an accident.*
+
+*- the monitor displays the location of the accident on the map.*
+
+*- if you click the marked point, display the accident pictures.*
+
+*- LED*
+
+* turn on the Red LED, click the '출동' button on the monitor.*
+
+* turn on the Yellow LED, click the '도착' button on the monitor.*
+
+* turn on the Green LED, click the '처리' button on the monitor.*
       
 ![System Flow](https://github.com/Kim-Taehyeon/Car_Accident_Detection_System/blob/master/system_flow.jpg)
 
@@ -60,24 +78,30 @@
 
 ### o Change of Paradigm
 
-#### - It is common for a person to call or send message directly.
-#### - However, in our system, we break the universal idea and open a new paradigm.
-#### - This is the same as when a cell phone that only made a voice call or text changed into a smartphone and opened a new paradigm of the mobile phone.
+*- It is common for a person to call or send message directly.*
+
+*- However, in our system, we break the universal idea and open a new paradigm.*
+
+*- This is the same as when a cell phone that only made a voice call or text changed into a smartphone and opened a new paradigm of the mobile phone.*
 
 ### o Fast
 
-#### - It is possible for a machine to report more quickly than a person to report by telephone or text.
-#### - This difference can be felt to be a great time for those who feel the threat of life.
- 
+*- It is possible for a machine to report more quickly than a person to report by telephone or text.*
+
+*- This difference can be felt to be a great time for those who feel the threat of life.*
+
 ### o Accuracy
 
-#### - It is easy to find the exact location
-#### - So, you can know the location more precisely.
+*- It is easy to find the exact location*
+
+*- So, you can know the location more precisely.*
  
 ### o Situation Awareness
 
-#### - We can know the scale of the accident through accident images.
-#### - There is an advantage in improving the efficiency of incident handling.
+*- We can know the scale of the accident through accident images.*
+
+*- There is an advantage in improving the efficiency of incident handling.*
+ 
  
 
 ---------------------------------------------------------------------------------------------------------------------------------------

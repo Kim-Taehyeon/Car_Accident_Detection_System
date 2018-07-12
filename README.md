@@ -118,7 +118,7 @@
 [Watch the Video 3](https://www.youtube.com/watch?v=sOUA0RG7VCg&feature=youtu.be)
 
 ### o System Control
-[Watch the Video 4](http://youtu.be/ZwXB3LHlwI)
+[Watch the Video 4](https://youtu.be/ZwXB3LhHlwI)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 # Conclusion
